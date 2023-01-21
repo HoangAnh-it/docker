@@ -13,6 +13,8 @@ overview: **Dockerfile** ===build===> **Images** ===run===> **Container**(new on
 **docker run -it container ls**: see all folder, files in container
 
 ## DOCKER HUB
-**docker login**
-**docker logout**
+**docker login**  
+**docker logout**  
 **docker push USER_DOCKER_HUB/tagname**: U must rename tag first by using **docker tag original_name new_name**
+
+## DOCKER COMPOSE
